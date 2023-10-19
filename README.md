@@ -1,2 +1,2 @@
 # Mini-Projects-of-JavaScripts.
-Implementing Learning of Javascripts for making mini Projects.
+Implementing the Learning of Javascripts by making mini Projects.
